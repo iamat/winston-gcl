@@ -1,0 +1,31 @@
+{
+  "name": "winston-gcl",
+  "version": "1.0.0",
+  "description": "A Google Cloud Logging transport for winston",
+  "author": "Lars Jacob <lars@iamat.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/iamat/winston-gcl.git"
+  },
+  "keywords": [
+    "logging",
+    "sysadmin",
+    "tools",
+    "gce"
+  ],
+  "dependencies": {
+    "google-compute-metadata": "^1.2.0",
+    "googleapis": "^2.0.6"
+  },
+  "devDependencies": {
+    "winston": "1.0.x",
+    "vows": "0.8.0"
+  },
+  "main": "./lib/winston-gcl",
+  "scripts": {
+    "test": "vows --spec"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
