@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "winston": "1.0.x",
-    "vows": "0.8.0"
+    "vows": "0.8.1"
   },
   "main": "./lib/winston-gcl",
   "scripts": {
