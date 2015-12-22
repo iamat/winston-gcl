@@ -21,6 +21,7 @@ The Google Cloud Logging transport is started of as a fork of the [winston-loggl
 * __auth:__ *[optional]* The authentication with an google-auth-library instance. If not given, the transport tries to query the google metadata service in order to extract a valid service account.
 * __projectId:__ Your Google Cloud Project ID
 * __logId:__ Log name
+* __label:__ *[optional]* Label of message
 
 ## Installation
 
