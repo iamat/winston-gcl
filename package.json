@@ -14,7 +14,7 @@
     "gce"
   ],
   "dependencies": {
-    "google-compute-metadata": "^1.2.0",
+    "google-compute-metadata": "^1.2.1",
     "googleapis": "~2.0.6",
     "slowloris": "^0.1.0"
   },
