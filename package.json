@@ -15,7 +15,7 @@
   ],
   "dependencies": {
     "google-compute-metadata": "^1.2.0",
-    "googleapis": "~2.0.6",
+    "googleapis": "~16.1.0",
     "slowloris": "^0.1.0"
   },
   "devDependencies": {
