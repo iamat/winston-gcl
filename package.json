@@ -19,7 +19,7 @@
     "slowloris": "^0.1.0"
   },
   "devDependencies": {
-    "winston": "1.0.x",
+    "winston": "1.1.0",
     "vows": "0.8.0"
   },
   "main": "./lib/winston-gcl",
